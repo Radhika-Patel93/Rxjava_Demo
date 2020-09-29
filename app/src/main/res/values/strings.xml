@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rxjava_Demo</string>
+    <string name="error_text">No data found</string>
+</resources>
